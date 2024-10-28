@@ -16,10 +16,9 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology]((http://www.usat.edu.pe)) 
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :school: Soy un `Junior` en la [Escuela Universitaria ]((http://www.usat.edu.pe)) 
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :nerd_face: Always believe `"You are what you loved"`
+- :nerd_face: Siempre creo en `"Que quieres que haga pereira"`
 
 <br>
 
