@@ -19,7 +19,6 @@
 - :school: I am a `Junior` at [School of Cyber Science and Technology]((http://www.usat.edu.pe)) 
 - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:M3Alesisx@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
