@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Soy un `Junior` en la [Escuela Universitaria]((http://www.usat.edu.pe)) 
+- :school: Soy un `Junior` en la [Escuela Universitaria](http://www.usat.edu.pe)
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :nerd_face: Siempre creo en `"Que quieres que haga pereira"`
 
